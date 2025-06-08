@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Environmela
+- 👋 Hi, I’m @Environminta
 - 👀 I’m interested in Retro gaming mostly
 - 🌱 I’m currently learning Java, C++
 - 💞️ I’m looking to collaborate on unsure yet ^.^
